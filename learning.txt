@@ -1,1 +1,2 @@
 Hello! I am currently learning how to use GITs. GITs are save files for code. Thanks!
+GITs track and make changes to files. I can commit my work to save progress.
