@@ -1,0 +1,10 @@
+I will nominate for the first award, the GITs. 
+The GITs are restore points to prexisting points in time so you can add new features without worrying about a game breaking glitch.
+
+The 2nd award I will nominate is GitHub. 
+GitHub puts those GITs into the cloud so you can collaborate on projects.
+
+The final award I will nominate are people who name their GITs with real changes.
+Those people do not have to deal with the chaos that is trying to figure out what you changed in that file without that GIT telling you!
+
+Awards show, out!
