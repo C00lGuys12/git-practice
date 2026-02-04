@@ -1,0 +1,4 @@
+I have learned this week that GITs and GitHub are very useful tools in development. 
+GITs are save points on your PC of your progress.
+GitHub allows you to put your saves online for others to collaborate.
+Both of those are essential tools if you want to make programs for others to enjoy, no matter if you are by yourself or with others.
